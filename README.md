@@ -1,5 +1,9 @@
 # Naavik
 
+[//]: # (usage)
+
+**Naavik assists in unification of configurations across services deployed with in Service Mesh**
+
 Naavik assists in unification of configurations across services deployed with in Service Mesh. 
 
 It acts upon a custom resource called TrafficConfig and transforms them into service mesh understandable resources.
